@@ -1,16 +1,15 @@
-## Hi there 👋
+### Boas vindas ao meu perfil
 
-<!--
-**alvess-zs/alvess-zs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Eduardo Alexandre 
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on Investidor
-- 🌱 I’m currently learning Inglês
-- 👯 I’m looking to collaborate on Cristhian 
-- 🤔 I’m looking for help with meus amigos
-- 💬 Ask me about Qual time eu torço
-- 📫 How to reach me: Instagram : @alvess.___011
-- 😄 Pronouns: Ele
-- ⚡ Fun fact: Sou gentil 
--->
+### Você pode entrar em contato comigo :mailbox
+
+00001131815737sp@al.educacao.sp.gov.br
+
+@alvess.___011
+
+![](https://media1.tenor.com/m/fXfaqPLEnWIAAAAd/escorregando-yuri-alberto.gif)
